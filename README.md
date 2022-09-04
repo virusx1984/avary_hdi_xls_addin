@@ -1,0 +1,1 @@
+Common Excel functions of Avary HDI
